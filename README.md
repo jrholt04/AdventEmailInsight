@@ -13,6 +13,7 @@ Home Page: <br/>
 <p align="center">
 Sort by Email: <br/>
 <img src="https://imgur.com/G0iW2hh" height="80%" width="80%" alt="Email"/>
+<br />
 <img src="https://imgur.com/j3Lq5c8" height="80%" width="80%" alt="Email"/> 
 <br />
 
