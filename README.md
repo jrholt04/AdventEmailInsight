@@ -12,12 +12,12 @@ Home Page: <br/>
 
 <p align="center">
 Sort by Email: <br/>
-<img src="https://imgur.com/G0iW2hh" height="80%" width="80%" alt="Email"/>
+<img src="https://imgur.com/G0iW2hh.png" height="80%" width="80%" alt="Email"/>
 <br />
-<img src="https://imgur.com/j3Lq5c8" height="80%" width="80%" alt="Email"/> 
+<img src="https://imgur.com/j3Lq5c8.png" height="80%" width="80%" alt="Email"/> 
 <br />
 
 <p align="center">
 Sort by Date: <br/>
-<img src="https://imgur.com/undefined" height="80%" width="80%" alt="Date"/>
+<img src="https://imgur.com/Vtid7od.png" height="80%" width="80%" alt="Date"/>
 <br />
