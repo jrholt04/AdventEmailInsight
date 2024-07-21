@@ -7,7 +7,7 @@ This was a porject I worked on for AdventFS.
 
 <p align="center">
 Home Page: <br/>
-<img src="https://imgur.com/NIMmshV" height="80%" width="80%" alt="HomePage"/>
+<img src="https://imgur.com/NIMmshV.png" height="80%" width="80%" alt="HomePage"/>
 <br />
 
 <p align="center">
